@@ -28,13 +28,13 @@ How to setup the development environment:
 
 1. Create a new directory called "**Horiseon**" by running "**mkdir Horiseon**" in Git Bash.
 2. Navigate to the Horiseon directory by running "**cd Horiseon**".
-3. Clone the repository by running "**git clone git@github.com:reececorkhill/Horiseon-Marketing-Agency.git**".
+3. Clone the repository by running "**git clone git@github.com:reececorkhill/Horiseon-Code-Refactoring.git**".
 4. Navigate to the "**Horiseon-Marketing-Agency**" directory by running "**cd Horiseon-Marketing-Agency**".
 5. Now you're in the project directory, run "**code .**" to open the project in VS Code.
 
 ## Usage
 
-The new and imporoved Horiseon website can be viewed <a href="https://reececorkhill.github.io/Horiseon-Code-Refactoring/"> here</a>.
+The new and improved Horiseon website can be viewed <a href="https://reececorkhill.github.io/Horiseon-Code-Refactoring/"> here</a>.
 
 ## Credits
 
