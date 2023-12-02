@@ -1,4 +1,4 @@
-# Hori**seo**n Code Refactoring
+# Horiseon Code Refactoring
 
 ## Description
 
@@ -34,7 +34,7 @@ How to setup the development environment:
 
 ## Usage
 
-The new and imporoved Horiseon website can be viewed <a href="https://reececorkhill.github.io/horiseon-marketing-agency/"> here</a>.
+The new and imporoved Horiseon website can be viewed <a href="https://reececorkhill.github.io/Horiseon-Code-Refactoring/"> here</a>.
 
 ## Credits
 
