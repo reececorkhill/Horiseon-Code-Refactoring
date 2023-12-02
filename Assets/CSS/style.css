@@ -12,6 +12,11 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Setting a uniform font size for paragraphs */
+p {
+    font-size: 16px;
+}
+
 /* Styling for header section */
 .header {
     padding: 20px;
@@ -46,11 +51,6 @@ body {
     margin-left: 25px;
 }
 
-/* Setting a uniform font size for paragraphs */
-p {
-    font-size: 16px;
-}
-
 /* Styling for hero section */
 .hero {
     height: 800px;
@@ -60,37 +60,6 @@ p {
     background-position: center;
     /* Added when hero div was replaced with img tag to control how the image was resized */
     object-fit: cover;
-}
-
-/* Styling for aside element with benefits content */
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
-    background-color: #2589bd;
-}
-
-/* Styling for sections within benefits */
-.benefits section {
-    margin-bottom: 32px;
-    color: #ffffff;
-    text-align: center;
-}
-
-/* Styling for h3 headings within benefits */
-.benefit h3 {
-    margin-bottom: 10px;
-}
-
-/* Styling for images within benefits */
-.benefits img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
 }
 
 /* Styling for content within the main element */
@@ -131,6 +100,37 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
+}
+
+/* Styling for aside element with benefits content */
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
+    background-color: #2589bd;
+}
+
+/* Styling for sections within benefits */
+.benefits section {
+    margin-bottom: 32px;
+    color: #ffffff;
+    text-align: center;
+}
+
+/* Styling for h3 headings within benefits */
+.benefit h3 {
+    margin-bottom: 10px;
+}
+
+/* Styling for images within benefits */
+.benefits img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
 }
 
 /* Styling for footer section */
