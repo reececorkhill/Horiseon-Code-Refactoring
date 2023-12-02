@@ -10,8 +10,6 @@ The problem with the original Horiseon website was that the images did not inclu
 
 Throughout the development process we learnt about the importance of accessibility and the importance of code structure. With web accessibility becoming increasingly more important, we also learnt about industry standards and best practices and by implementing code which meets web accessibility standards and follows best practices, we were able to solve the problems and make the new site stand out by giving detailed alt attributes for images and cleaning up the code.
 
-Website: <a href="https://reececorkhill.github.io/horiseon-marketing-agency/"> Click Here</a>
-
 ## Table of Contents
 
 - [Description](#description)
