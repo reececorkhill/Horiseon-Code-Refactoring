@@ -4,7 +4,7 @@
 
 Horiseon is a marketing agency providing Search Engine Optimisation, Online Reputation Management and Social Media Management services. 
 
-The aim of this project, set by Horiseon, was to refactor the existing site so it followed accessibility standards, making it optimised for search engines. We built this project to make the site more accessible to people with disabilities which makes the experience easier for people when using assistive technologies such as, screen readers. 
+The aim of this project, set by Horiseon, was to refactor the existing site so it followed accessibility standards, making it optimised for search engines. We built this project to with the motivation tomake the site more accessible to people with disabilities which makes the experience easier for people when using assistive technologies such as, screen readers. 
 
 The problem with the original Horiseon website was that the images did not include alt attributes which a screen reader could read to inform the user of the images content. Another issue we found in the original website was that the code was not optimised enough to meet current standards and best practices.
 
@@ -36,9 +36,7 @@ How to setup the development environment:
 
 The new and improved Horiseon website can be viewed <a href="https://reececorkhill.github.io/Horiseon-Code-Refactoring/"> here</a>.
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/reececorkhill/Horiseon-Code-Refactoring/main/Assets/Images/Website%20Screenshot%20-%20Horiseon%20Marketing%20Agency.png" alt="Screenshot of the Horiseon website showcasing services and benefits.">
-</p>
+![Screenshot of the Horiseon website showcasing services and benefits.](Assets/Images/Website Screenshot - Horiseon Marketing Agency.png)
 
 ## Credits
 
