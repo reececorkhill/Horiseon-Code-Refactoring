@@ -4,7 +4,7 @@
 
 Horiseon is a marketing agency providing Search Engine Optimisation, Online Reputation Management and Social Media Management services. 
 
-The aim of this project, set by Horiseon, was to refactor the existing site so it followed accessibility standards, making it optimised for search engines. We built this project to with the motivation tomake the site more accessible to people with disabilities which makes the experience easier for people when using assistive technologies such as, screen readers. 
+The aim of this project, set by Horiseon, was to refactor the existing site so it followed accessibility standards, making it optimised for search engines. We built this project with the motivation to make the site more accessible to people with disabilities which makes the experience easier for people when using assistive technologies such as, screen readers. 
 
 The problem with the original Horiseon website was that the images did not include alt attributes which a screen reader could read to inform the user of the images content. Another issue we found in the original website was that the code was not optimised enough to meet current standards and best practices.
 
