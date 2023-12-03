@@ -37,7 +37,7 @@ How to setup the development environment:
 The new and improved Horiseon website can be viewed <a href="https://reececorkhill.github.io/Horiseon-Code-Refactoring/"> here</a>.
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/navidrome/navidrome/master/.github/screenshots/ss-mobile-login.png" alt="Screenshot of the Horiseon website showcasing services and benefits.">
+  <img src="https://raw.githubusercontent.com/reececorkhill/Horiseon-Code-Refactoring/main/Assets/Images/Website%20Screenshot%20-%20Horiseon%20Marketing%20Agency.png" alt="Screenshot of the Horiseon website showcasing services and benefits.">
 </p>
 
 ## Credits
