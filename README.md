@@ -36,6 +36,8 @@ How to setup the development environment:
 
 The new and improved Horiseon website can be viewed <a href="https://reececorkhill.github.io/Horiseon-Code-Refactoring/"> here</a>.
 
+![Screenshot of the Horiseon website showcasing services and benefits.](Assets/Images/Website Screenshot - Horiseon Marketing Agency.png)
+
 ## Credits
 
 This code refactoring project was developed by <a href="https://github.com/reececorkhill">reececorkhill</a>.
