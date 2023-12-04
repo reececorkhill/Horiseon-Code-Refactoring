@@ -134,7 +134,7 @@ p {
 }
 
 /* Styling for footer section */
-.footer {
+footer {
     padding: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
     text-align: center;
@@ -142,12 +142,12 @@ p {
 }
 
 /* Styling for h4 headings within the footer */
-.footer h4 {
+footer h4 {
     font-size: 20px;
     color: black;
 }
 
 /* Styling for paragraphs within the footer */
-.footer p {
+footer p {
     color: black;
 }
